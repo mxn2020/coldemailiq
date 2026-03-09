@@ -1,0 +1,12 @@
+services:
+  convex:
+    project: ColdEmailIQ
+  vercel:
+    project: ColdEmailIQ
+  stripe:
+    mode: live
+  nvidia:
+    api: nvidia-nims
+  github:
+    owner: mxn2020
+    repo: coldemailiq

@@ -1,0 +1,16 @@
+id: 8cda40e7-e0ba-4564-9b53-7d715a8da9ee
+name: coldemailiq
+description: "AI cold email generator with personalization"
+tier: prototype
+lane: side-projects
+priority: low
+category: text
+focus: false
+open_tasks: 0
+oss: false
+stack: [typescript, react, convex, vite]
+repo: https://github.com/mxn2020/coldemailiq
+deploy_url: null
+last_active: 2026-03-02
+tags: [ai, convex]
+notes:
